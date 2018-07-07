@@ -1,6 +1,6 @@
 {% set name = "dcm2niix" %}
-{% set version = "1.0.20171215" %}
-{% set sha256 = "16102ece30727900da4ec9eb75bc0ef1030e924aa2f09f3d6251a1335a3d4e39" %}
+{% set version = "1.0.20180622" %}
+{% set sha256 = "e9f79509f44aac82c9663381f8f4bfb18a9a3c3eb112d418c92629a871bbb13c" %}
 
 package:
   name: {{ name|lower }}
