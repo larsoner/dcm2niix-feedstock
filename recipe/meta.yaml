@@ -20,7 +20,6 @@ requirements:
     - cmake
     - make
     - git
-    - libstdc++-static
     - libtool  # [not win]
     - {{ compiler("cxx") }}
 
